@@ -147,7 +147,30 @@ Support tickets can be auto-classified into positive or negative tone, allowing 
 
 This project successfully demonstrates how Natural Language Processing and machine learning can be applied to classify customer reviews based on sentiment. By leveraging TF-IDF vectorization and Logistic Regression, the model can effectively distinguish between positive and negative feedback. This type of sentiment analysis is widely used in industry applications such as customer feedback monitoring, brand analysis, and automated review classification. The project provides a foundation that can be further improved using advanced NLP models or deep learning algorithms.
 
+12. Output
 
+1. First 5 rows of dataset
+<img width="1938" height="390" alt="Image" src="https://github.com/user-attachments/assets/b5f139e8-cc1c-42e9-9e59-a770474a12e4" />
+
+
+2.Converted scores into sentiment labels
+<img width="966" height="418" alt="Image" src="https://github.com/user-attachments/assets/8c1db14c-b16b-41ce-b646-2163627e6f39" />
+
+
+3.Distribution of sentiments
+<img width="968" height="782" alt="Image" src="https://github.com/user-attachments/assets/c2af31d7-b9be-4715-95fa-ccb77ec5800a" />
+
+
+4.Accuracy and classification report
+<img width="812" height="588" alt="Image" src="https://github.com/user-attachments/assets/0bea2042-e5bc-410d-ba08-4f62bf91212a" />
+
+
+5.Confusion matrix
+<img width="1058" height="776" alt="Image" src="https://github.com/user-attachments/assets/64d2ef19-2245-4923-89de-4796b8cc601b" />
+
+
+6.Custom example
+<img width="920" height="1148" alt="Image" src="https://github.com/user-attachments/assets/64d396b1-e051-49a2-b9cf-b8e669e3c39f" />
 
 
 
