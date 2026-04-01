@@ -149,7 +149,8 @@ This project successfully demonstrates how Natural Language Processing and machi
 
 12. Output
 
-1. First 5 rows of dataset
+
+1.First 5 rows of dataset
 <img width="1938" height="390" alt="Image" src="https://github.com/user-attachments/assets/b5f139e8-cc1c-42e9-9e59-a770474a12e4" />
 
 
@@ -158,19 +159,19 @@ This project successfully demonstrates how Natural Language Processing and machi
 
 
 3.Distribution of sentiments
-<img width="968" height="782" alt="Image" src="https://github.com/user-attachments/assets/c2af31d7-b9be-4715-95fa-ccb77ec5800a" />
+<img width="800" height="500" alt="Image" src="https://github.com/user-attachments/assets/c2af31d7-b9be-4715-95fa-ccb77ec5800a" />
 
 
 4.Accuracy and classification report
-<img width="812" height="588" alt="Image" src="https://github.com/user-attachments/assets/0bea2042-e5bc-410d-ba08-4f62bf91212a" />
+<img width="700" height="400" alt="Image" src="https://github.com/user-attachments/assets/0bea2042-e5bc-410d-ba08-4f62bf91212a" />
 
 
 5.Confusion matrix
-<img width="1058" height="776" alt="Image" src="https://github.com/user-attachments/assets/64d2ef19-2245-4923-89de-4796b8cc601b" />
+<img width="700" height="350" alt="Image" src="https://github.com/user-attachments/assets/64d2ef19-2245-4923-89de-4796b8cc601b" />
 
 
 6.Custom example
-<img width="920" height="1148" alt="Image" src="https://github.com/user-attachments/assets/64d396b1-e051-49a2-b9cf-b8e669e3c39f" />
+<img width="700" height="900" alt="Image" src="https://github.com/user-attachments/assets/64d396b1-e051-49a2-b9cf-b8e669e3c39f" />
 
 
 
