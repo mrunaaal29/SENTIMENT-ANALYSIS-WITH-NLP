@@ -74,19 +74,19 @@ The project also includes a section that allows users to test the model with cus
 
 The following tools, libraries, and technologies were used to complete this sentiment analysis project:
 
-Python
+Python-
 Python is used as the primary programming language due to its rich ecosystem of data science, NLP, and machine learning libraries.
 
-Jupyter Notebook
+Jupyter Notebook-
 The entire code execution, analysis, visualization, and documentation are performed in Jupyter Notebook. It is suitable for interactive workflows and step-by-step experimentation.
 
-Pandas
+Pandas-
 Pandas is utilized for loading the dataset, handling missing data, selecting columns, filtering records, and performing data manipulation tasks.
 
-NumPy
+NumPy-
 NumPy provides numerical computation support, especially for operations required in machine learning and vector transformations.
 
-Scikit-learn
+Scikit-learn -
 The core machine learning framework used in this project.
 Modules included:
 TfidfVectorizer for text vectorization
@@ -94,26 +94,26 @@ train_test_split for dataset splitting
 LogisticRegression for modeling
 accuracy_score, confusion_matrix, and classification_report for evaluation
 
-Matplotlib and Seaborn
+Matplotlib and Seaborn-
 These libraries are used for data visualization, specifically for generating plots such as class distribution and confusion matrix heatmap.
 
-Kaggle Dataset
+Kaggle Dataset-
 The Uber Customer Reviews Dataset 2024 from Kaggle is used as the source of text data.
 
 9. Development Environment / Editor Platform
 
 This project is executed in the following development environment:
 
-Anaconda Distribution
+Anaconda Distribution-
 Anaconda provides a stable Python environment, package management, and easy installation of required libraries. It includes Jupyter Notebook, which is used as the code editor.
 
-Jupyter Notebook
+Jupyter Notebook-
 Jupyter Notebook is chosen because it allows step-by-step execution, inline visualizations, and combining code with explanations in a single document. This makes it ideal for data science and machine learning tasks.
 
-Windows Operating System
+Windows Operating System-
 The project has been implemented on a Windows-based system. However, the code is platform-independent and can run on Linux or macOS as well.
 
-Git and GitHub (Optional)
+Git and GitHub-
 This project can be pushed to a GitHub repository for version control, sharing, and documentation.
 
 10. Applications of Sentiment Analysis (Where This Task is Applicable)
