@@ -88,11 +88,16 @@ NumPy provides numerical computation support, especially for operations required
 
 Scikit-learn -
 The core machine learning framework used in this project.
+
 Modules included:
 TfidfVectorizer for text vectorization
+
 train_test_split for dataset splitting
+
 LogisticRegression for modeling
+
 accuracy_score, confusion_matrix, and classification_report for evaluation
+
 
 Matplotlib and Seaborn-
 These libraries are used for data visualization, specifically for generating plots such as class distribution and confusion matrix heatmap.
