@@ -167,10 +167,12 @@ This project successfully demonstrates how Natural Language Processing and machi
 
 
 5.Confusion matrix
+
 <img width="700" height="350" alt="Image" src="https://github.com/user-attachments/assets/64d2ef19-2245-4923-89de-4796b8cc601b" />
 
 
 6.Custom example
+
 <img width="700" height="900" alt="Image" src="https://github.com/user-attachments/assets/64d396b1-e051-49a2-b9cf-b8e669e3c39f" />
 
 
